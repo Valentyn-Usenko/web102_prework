@@ -1,8 +1,8 @@
-# WEB102 Prework - Sea Monster 
+# WEB102 Prework - Sea Monster's Website
 
 Submitted by: **Valentyn Usenko**
 
-**Sea Monster ** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster's Website** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **12** hours spent in total
 
@@ -35,7 +35,7 @@ Describe any challenges encountered while building the app.
 
 One of my biggest challenges I've ecountered while working on this project is the function 'addGamesToPage' , it was my biggest challenge 
 because  of the .innerHTML and since I never used it before, i had to use outside resources such as Google to learn about it. 
-And after speding some time learning it, I implemented this function
+And after speding some time learning it, I've managed implementing this function
 
 ## License
 
