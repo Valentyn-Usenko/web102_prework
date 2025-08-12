@@ -26,14 +26,13 @@ Here's a walkthrough of implemented features:
 <img src='./demo_video/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools: [ScreenToGif](https://www.screentogif.com/) for Windows -->
+GIF created with ScreenToGif
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-One of my biggest challenges I've ecountered while working on this project is the function 'addGamesToPage' , it was my biggest challenge 
+The biggest challenge I've ecountered while working on this project is the function 'addGamesToPage' , it was my biggest challenge 
 because  of the .innerHTML and since I never used it before, i had to use outside resources such as Google to learn about it. 
 And after speding some time learning it, I've managed implementing this function
 
